@@ -1,0 +1,21 @@
+/* Footer Section */
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#black {
+  color: black;
+}
+
+.footer-section {
+  background-color: #eeeeee;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+#footer {
+  padding-left: 45%;
+}
